@@ -1,0 +1,250 @@
+body{
+  margin: 0;
+  font-family: sans-serif;
+  letter-spacing: 1px;
+}
+a{
+  text-decoration: none;
+}
+.navbar{
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+  height: 50px;
+  padding: 30px 0 15px;
+}
+
+#main-page-link{
+  float: left;
+  color: black;
+  text-decoration: underline;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.middle-links{
+  display: inline-block;
+  margin-top: 5px;
+}
+ .nav-links{
+   margin-left: 20px;
+   color: grey;
+   font-size: 15px;
+ }
+
+ #contact-btn{
+   float: right;
+   background-color: black;
+   padding: 8px 16px;
+ }
+ #contact-link{
+   font-size: 15px;
+   color: white;
+ }
+ .container-1{
+   text-align: center;
+   height: 600px;
+   position: relative;
+   margin: 0 5%;
+   background-image: url("E:/webD/project1(html,css)/images/background-img1.jpg");
+ }
+.container-1-content{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.container-1-content h1{
+  font-size: 60px;
+  font-weight: normal;
+  margin-bottom: 5px;
+  color: white;
+}
+
+.container-1-content p{
+  font-size: 20px;
+  font-weight: 500;
+  color: #C8C6C6;
+
+}
+.container-1-content button{
+  padding: 16px 32px;
+  background-color: white;
+  border: 1px solid white;
+}
+#about-link{
+  font-size: 16px;
+  color: black;
+}
+
+.container-2{
+  height: 200px;
+  position: relative;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.container-2-content{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.container-2-content p{
+  font-size: 10px;
+  font-weight: 500;
+  color: grey;
+  letter-spacing: 3px;
+}
+
+.container-2-content h2{
+  font-size: 30px;
+  font-weight: normal;
+  letter-spacing: 3px;
+}
+.divider{
+  width: 80%;
+  margin: 0 auto;
+  height: 1px;
+  background-color: #EEE;
+}
+.container-3{
+  width: 80%;
+  margin: 70px 10% 0;
+}
+#bgimg-2{
+  float: right;
+  width: 700px;
+  height:400px;
+}
+.text-content-3{
+  margin-right: 850px;
+}
+.text-content-3 p{
+  font-size: 15px;
+  color: grey;
+}
+.text-content-3 h2{
+  font-size: 40px;
+  font-weight: normal;
+}
+.text-content-3 button{
+  padding: 8px 16px;
+  background-color: black;
+  border-width: 0;
+  color: white;
+  font-size: 16px;
+}
+.container-4{
+  clear: right;
+  width: 80%;
+  margin: 150px 10% 0;
+}
+#bgimg-3{
+  float: left;
+  width: 700px;
+  height:400px;
+}
+.text-content-4{
+  margin-left: 780px;
+}
+.text-content-4 p{
+  font-size: 15px;
+  color: grey;
+}
+.text-content-4 h2{
+  font-size: 40px;
+  font-weight: normal;
+}
+.text-content-4 button{
+  padding: 8px 16px;
+  background-color: black;
+  border-width: 0;
+  color: white;
+  font-size: 16px;
+}
+.float-link{
+  color: white;
+  font-size: 16px;
+}
+
+.c5{
+  clear: left;
+  width: 80%;
+  margin:150px auto 0;
+}
+.c5-head{
+  text-align: center;
+}
+
+p{
+  font-size: 15px;
+  color: grey;
+  letter-spacing: 1px;
+  line-height: 2;
+}
+h1{
+  font-size: 45px;
+  font-weight: normal;
+  line-height: 2;
+}
+h2{
+  font-size: 40px;
+  font-weight: normal;
+}
+h3{
+  font-size: 35px;
+  font-weight: normal;
+}
+.tc-1{
+  display: inline-block;
+  float: left;
+  width: 30%;
+}
+.tc-2{
+  float: right;
+  display: inline-block;
+  width: 30%;
+}
+.tc-3{
+  display: inline-block;
+  width: 30%;
+  margin-left: 60px;
+}
+h3 a{
+  color: black;
+  font-size: 30px;
+}
+.c-6{
+  clear: both;
+  width: 90%;
+  margin: 100px auto 0;
+  position: relative;
+  height: 400px;
+  background-color: #EEE;
+}
+button{
+  padding: 16px 24px;
+  background-color: black;
+  border-width: 0;
+  color: white;
+  font-size: 16px;
+}
+
+.c6-tc-1{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.footer{
+  text-align: center;
+  color: #C8C6C6;
+  margin:50px 0;
+  font-weight: 600;
+}

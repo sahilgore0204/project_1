@@ -1,0 +1,160 @@
+body{
+  margin: 0;
+  font-family: sans-serif;
+  letter-spacing: 1px;
+}
+button{
+  background-color: black;
+  padding: 16px 24px;
+  border-width: 0;
+}
+a{
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+}
+.navbar{
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+  height: 50px;
+  padding: 30px 0 15px;
+}
+
+#main-page-link{
+  float: left;
+  color: black;
+  text-decoration: underline;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.middle-links{
+  display: inline-block;
+  margin-top: 5px;
+}
+ .nav-links{
+   margin-left: 20px;
+   color: grey;
+   font-size: 15px;
+ }
+
+ #contact-btn{
+   float: right;
+   background-color: black;
+   padding: 8px 16px;
+ }
+ #contact-link{
+   font-size: 15px;
+   color: white;
+ }
+ .c-1{
+   width: 90%;
+   margin: 0 5%;
+   height: 500px;
+   position: relative;
+   background-color: black;
+   text-align: center;
+ }
+ .c-1 h1{
+   margin: 0;
+   font-size: 80px;
+   font-weight: normal;
+   color: white;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   -ms-transform: translate(-50%, -50%);
+   transform: translate(-50%, -50%);
+ }
+ .c-2{
+   text-align: center;
+   margin: 0 15%;
+ }
+ .c-2-head{
+   font-size: 40px;
+   margin: 70px 0;
+ }
+ .c-2-body{
+   margin: 70px 0;
+   font-size: 16px;
+   color: grey;
+   line-height: 2;
+   font-weight: 200;
+ }
+ .divider{
+   height: 1px;
+   width: 80%;
+   background-color: #EEE;
+ }
+ .c3{
+   margin: 70px 10%;
+ }
+ .c3-head{
+   text-align: center;
+ }
+ p{
+   font-size: 13px;
+   color: grey;
+   line-height: 2;
+ }
+ h3{
+   font-size: 30px;
+   font-weight: normal;
+ }
+ img{
+   height: 50px;
+   width: 50px;
+ }
+ h4{
+   font-size: 25px;
+   font-weight: normal;
+ }
+ .service{
+   display: inline-block;
+   width: 25%;
+ }
+ #s1{
+   float: left;
+ }
+ #s2{
+   float: right;
+ }
+ .r1{
+   margin-top: 70px;
+ }
+.r2{
+  clear: both;
+  margin-top: 50px;
+}
+ #s4{
+   float: left;
+ }
+ #s5{
+   float: right;
+ }
+#s3,#s6{
+  margin-left: 150px;
+}
+.c-6{
+  clear: both;
+  width: 90%;
+  margin: 100px auto 0;
+  position: relative;
+  height: 400px;
+  background-color: #EEE;
+}
+.c6-tc-1{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.footer{
+  text-align: center;
+  color: #C8C6C6;
+  margin:50px 0;
+  font-weight: 600;
+}
